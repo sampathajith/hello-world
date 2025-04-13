@@ -218,7 +218,7 @@
   </prerequisites>
 <properties>
   <sonar.projectKey>jenkins-token</sonar.projectKey>
-  <sonar.host.url>http://13.235.83.195:900/:9000</sonar.host.url>
+  <sonar.host.url>http://13.235.83.195:9000</sonar.host.url>
   <sonar.login>squ_f050ac8a99d0fa64aad8bc8bde2f116049924c8f</sonar.login> <!-- or use Jenkins credentials plugin -->
 </properties>
 </project>
